@@ -1,36 +1,39 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: j551n-ncloud # Your GitHub organization or username, where this repository lives
+repo: Monitor # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Homepage
+    url: https://j551n.com
+  - name: Recipe
+    url: https://recipe.j551n.com
+  - name: IT Tools
+    url: https://tools.j551n.com
+  - name: Bookstack
+    url: https://bookstack.j551n.com
+  - name: Gitlab
+    url: https://gitlab.j551n.com
+  - name: Vs Code
+    url: https://code.j551n.com
+  - name: Vault
+    url: https://vault.j551n.com
+  - name: Docu sign
+    url: https://sign.j551n.com
+  - name: Nexterm
+    url: https://ssh.j551n.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+
+
+  baseUrl: /Monitor
+  logoUrl: https://j551n.com/content/images/2024/06/Screenshot-2024-04-06-190141.png
+  name: N-Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration

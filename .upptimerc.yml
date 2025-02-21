@@ -33,7 +33,7 @@ status-website:
   logoUrl: https://j551n.com/content/images/2024/06/Screenshot-2024-04-06-190141.png
   name: N-Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a status page which uses **real-time** data.
+  introMessage: This is a status page which uses **real-time** data for the monitoring of the services.
   navbar:
     - title: Status
       href: /

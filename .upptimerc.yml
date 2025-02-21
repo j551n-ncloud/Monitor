@@ -21,6 +21,12 @@ sites:
     url: https://sign.j551n.com
   - name: Nexterm
     url: https://ssh.j551n.com
+  - name: N-DB
+    url: https://obsidian.j551n.com
+  - name: Selfhost Spotify
+    url: https://dj.j551n.com
+  - name: Music Server
+    url: https://play.j551n.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

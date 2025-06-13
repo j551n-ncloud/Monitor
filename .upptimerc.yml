@@ -25,6 +25,8 @@ sites:
     url: https://dj.j551n.com
   - name: Music Server
     url: https://play.j551n.com
+  - name: N-Auth
+    url: https://auth.j551n.com
 
 
 status-website:

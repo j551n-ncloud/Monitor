@@ -9,8 +9,8 @@ sites:
     url: https://recipe.j551n.com
   - name: IT Tools
     url: https://tools.j551n.com
-  - name: Bookstack
-    url: https://bookstack.j551n.com
+  - name: Fumadocs
+    url: https://docu.j551n.com
   - name: Gitlab
     url: https://gitlab.j551n.com
   - name: Vs Code
